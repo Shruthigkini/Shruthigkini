@@ -1,5 +1,7 @@
-## Hi there 👋
-Connect with me:
+### Hi there 👋
+
+## Connect with me:
+![img](https://images.app.goo.gl/TdRdjg7gEs5oMLoG7)
 - 👋 Hi, I’m @Shruthigkini
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
