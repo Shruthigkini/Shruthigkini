@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Shruthigkini
 - 👀 I'm a Cloud and DevOps Enthusiast...
-- 🌱 I’m currently with Harness.io as Community Engineer
+- 🌱 I’m currently working at Harness.io as Community Engineer
 - 💞️ I’m looking to collaborate on Community initiatives, technology, meetups,webinars, presentations
 - 📫 How to reach me ... shruthikini.93@gmail.com
 
